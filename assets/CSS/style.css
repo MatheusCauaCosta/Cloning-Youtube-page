@@ -1,1 +1,51 @@
 @import url(/assets/CSS/reset.css);
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header .button-menu img{
+    display: flex;
+    flex-direction: column; 
+    margin: 6px;
+}
+.header .button-menu #img-01{
+    margin: 0px 6px;
+}
+.header .button-menu #img-03{
+    margin-bottom: 0px;
+}
+.header .button-menu{
+    margin-left: 32px;
+    position: relative;
+    top: 20px;
+}
+.header .youtube-logo img{
+    display: flex;
+    margin-left: 64px;
+    position: relative;
+    left: 16px;
+}
+.input-url{
+    position: relative;
+    top: 2px;
+}
+.input-url figure #item-02{
+    position: relative;
+    right: 5px;
+}
+.input-url figure #item-03{
+    position: relative;
+    right: 55px;
+    bottom: 6px;
+}
+.buttons-end-header{
+    margin-right: 16px;
+    position: relative;
+    top: 10px;
+}
+.buttons-end-header img{
+    margin: 0px 12px;
+}
+
+
+
