@@ -1,1 +1,17 @@
 @import url(/assets/CSS/reset.css);
+
+.main-video{
+    width: 952px;
+    height: 746px;
+    margin-left: 74px;
+    
+}
+.video-name{
+    margin-top: 12px;
+    width: 871px;
+    height: 23px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: left;
+}
