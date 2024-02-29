@@ -1,5 +1,8 @@
 @import url(/assets/CSS/reset.css);
 
+main{
+    display: flex;
+}
 .main-video{
     width: 952px;
     height: 746px;
