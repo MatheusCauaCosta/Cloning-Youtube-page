@@ -44,5 +44,15 @@ main{
 }
 .video-recommendation{
     margin-left: 32px;
+    
 }
+.video-recommendation img{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+.video-recommendation-information{
+    margin-left: 16px;
+}
+
 
