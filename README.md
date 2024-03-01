@@ -1,6 +1,6 @@
 #Cloning youtube page
 
-##Project: cloning youtube page with CSS/dio.me
+##Project: cloning youtube page with CSS/https://www.dio.me
 
 ##Project status: finished
 
